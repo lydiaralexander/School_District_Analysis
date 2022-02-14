@@ -10,22 +10,22 @@ USING BULLETED LISTS AND IMAGES OF DATAFRAMES AS SUPPORT, ADDRESS THE FOLLOWING 
 
     Initial Analysis
 
-    ![](images/district_summary_df_v1.PNG)
+    ![](images/district_summary_df_v1.png)
 
     Second Analysis
 
-    ![](images/district_summary_df_v2.PNG)
+    ![](images/district_summary_df_v2.png)
 
 * How is the school summary affected?
 
     Initial Analysis
 
-    ![](images/per_school_summary_df_v1.PNG)
+    ![](images/per_school_summary_df_v1.png)
 
     Second Analysis
 
-    ![](images/per_school_summary_df_v2.PNG)
-    
+    ![](images/per_school_summary_df_v2.png)
+
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
 * How does replacing the ninth-grade scores affect the following:

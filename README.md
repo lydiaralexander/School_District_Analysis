@@ -1,10 +1,9 @@
 # School_District_Analysis
 
 ## Overview
-EXPLAIN THE PURPOSE OF THE ANALYSIS
+It was evidence of academic dishonesty with the math and reading grades for the ninth graders for Thomas High School.  The purpose of this analysis was to replace the math and reading scores for Thomas High school with NaNs while leaving the other data unchanged.  A repeat analysis was completed once the ninth graders from Thomas High School grades were "removed".
 
 ## Results of the Analysis
-USING BULLETED LISTS AND IMAGES OF DATAFRAMES AS SUPPORT, ADDRESS THE FOLLOWING QUESTIONS:
 
 * How is the district summary affected?
 
@@ -26,19 +25,5 @@ USING BULLETED LISTS AND IMAGES OF DATAFRAMES AS SUPPORT, ADDRESS THE FOLLOWING 
 
     ![](images/per_school_summary_df_v2.png)
 
-* How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
-* How does replacing the ninth-grade scores affect the following:
-
-    * Math and reading scores by grade
-
-    * Scores by school spending
-
-    * Scores by school size
-
-    * Scores by school type
-
-
-## Summary
-SUMMARIZE FOUR CHANGES IN THE UPDATED SCHOOL DISCTRICT ANALYSIS AFTER READING AND MATH SCORES FOR THE NINTH GRADE AT THOMAS HIGH SCHOOL HAVE BEN REPLACED WITH NANS.
 
